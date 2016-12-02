@@ -238,7 +238,7 @@
     var basicBot = {
         version: "1",
         status: false,
-        name: "Rock Wins Bot",
+        name: "The Phantom",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
         cmdLink: "https://git.io/viPW3",
@@ -248,7 +248,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "Rock Wins Bot",
+            botName: "The Phantom",
             language: "portuguese",
             chatLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/pt-BR.json",
             scriptLink: "https://rawgit.com/Kenan-plugdj/RWplug/master/bot.js",
@@ -304,8 +304,8 @@
             opLink: null,
             rulesLink:"http://prnt.sc/c16kj6",
             regrasLink: "http://prnt.sc/c152aa",
-            themeLink: "Rock'n'roll, todos os subgêneros do rock",
-            fbLink: "http://bit.ly/2cxnE6a",
+            themeLink: "Sinta-se à vontade para montar sua playlist e tocar o que desejar.",
+            fbLink: "http://bit.ly/lamentosafb",
             youtubeLink: null,
             website: null,
             intervalMessages: ["@djs Vejam as regras digitando !regras, see the rules typing !rules.","Entre para o nosso grupo no Facebook http://bit.ly/2cxnE6a","Tema: Rock'n'roll, todos os subgêneros do rock.","Veja os comandos do bot digitando !cmds.","@djs Temos um grupo da sala no Whatsapp, você pode entrar usando o link de convite que está na descrição da sala ou no nosso grupo do facebook."],
